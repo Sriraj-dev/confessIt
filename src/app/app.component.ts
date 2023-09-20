@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'campus-echo';
+
+  currentcount = 5;
+
+  
 }
